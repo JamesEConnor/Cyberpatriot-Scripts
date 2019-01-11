@@ -1,0 +1,2 @@
+# Cyberpatriot-Scripts
+A compilation of scripts for use in the Cyberpatriot competition. These are meant for use by us only. Any other usage will be in violation of both the License for this repository, as well as Cyberpatriot rules (See *section 4009, subsection 4. Software Tools, letter e, part 2* available here: https://www.uscyberpatriot.org/Documents/CHAPTER%204%20ONLINE%20COMPETITION%20ROUND%20RULES.pdf)
